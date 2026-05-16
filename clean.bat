@@ -9,3 +9,5 @@ del  texcode\*.bak  /s
 del *.lof /s
 del *.lot /s
 del *.gz /s
+del *.blg /s
+del *.bbl /s
